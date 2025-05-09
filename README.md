@@ -23,4 +23,5 @@ Our aim is to develop an application that utilizes LLM output trained specifical
 * [Prompt Development](03_prompting_experiments.ipynb)
 * [Training Data](04_training_data.ipynb)
 * [App Interface](05_app_interface.ipynb)
+* [User Pathways](06_User_pathways.ipynb)
 
