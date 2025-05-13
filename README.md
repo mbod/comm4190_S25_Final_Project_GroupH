@@ -18,10 +18,9 @@ Our aim is to develop an application that utilizes LLM output trained specifical
 ### Project details
 
 
-* [Initial ideas](01_App_design_description_preliminary_ideas.ipynb)
+* [Initial ideas](01_Preliminary_App_Description.ipynb)
 * [User Scenarios](02_User_Scenarios.ipynb)
-* [Prompt Development](03_prompting_experiments.ipynb)
-* [Sample Data](Sample_input_training_data.ipynb)
-* [App Design](Untrained_vs_Trained_Responses.ipynb)
+* [Prompt Development](03_Prompting_Experiments.ipynb)
+* [Sample Training Data](04_App_Design/Sample_input_training_data.ipynb)
+* [App Design](04_App_Design/Untrained_vs_Trained_Responses.ipynb)
 * [User Pathways](05_User_pathways.ipynb)
-
